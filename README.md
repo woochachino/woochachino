@@ -1,3 +1,3 @@
 # Elliot Nou
 
-links: [personal website](elliotnou.com) // [linkedin](https://www.linkedin.com/in/elliot-nou)
+links: [personal website](https://www.elliotnou.com) // [linkedin](https://www.linkedin.com/in/elliot-nou)
